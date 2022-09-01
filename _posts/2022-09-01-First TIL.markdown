@@ -33,17 +33,21 @@ Github 블로그에 대해서는 주말을 이용해 더 공부하기로 하고 
 * 인터넷에 있는 이미지를 삽입할 수도 있다. 또한 {: .align-center}를 통해 가운데 정렬할 수 있다.  
 ![](https://images.pexels.com/photos/301669/pexels-photo-301669.jpeg?auto=compress&cs=tinysrgb&w=600 "Cinnamon 증명사진"){: .align-center}  
 * 표도 만들수 있다.  
+  
+
 |제목|내용|설명|
 |------|---|---|
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
-    
-
+  
+  
 | 비교 | Ceylon | Cassia |
 |:---:|:-------|------:|
 | Quality | Good | Bad |
 | Price | Expensive | Cheap |
+  
+  
 * * *
   
   
