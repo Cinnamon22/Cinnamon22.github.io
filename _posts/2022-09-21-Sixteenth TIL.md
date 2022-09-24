@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Python"
-date:   2022-09-20 22:46:00 +0900
+date:   2022-09-21 22:46:00 +0900
 categories: TIL
 ---
 # Python
