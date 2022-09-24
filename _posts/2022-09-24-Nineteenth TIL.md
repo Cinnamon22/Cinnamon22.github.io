@@ -41,3 +41,4 @@ for t in range(T):
   print(count)
 ```
 큐에서 목표로 하는 index값을 추적하기 위해서 float로 변환하는 방법을 택했다. 나름대로 창의적인 생각이었지만 index를 표현하는 새로운 deque를 만들어 index를 추적하는 편이 더 좋은 생각인 것 같다.
+ps. 업로드 이슈, 깃허브 블로그 post 업로드가 안돼요ㅠ
