@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "오늘의 백준"
+title:  "오늘의 백준!"
 date:   2022-09-23 22:46:00 +0900
 categories: TIL
 ---
